@@ -1,0 +1,4 @@
+﻿  Bai028.cpp
+D:\Bài tập\Ma Trận\UIT_23521636_BT04\Bai028\Bai028.cpp(15,6): warning C4101: 'c': unreferenced local variable
+D:\Bài tập\Ma Trận\UIT_23521636_BT04\Bai028\Bai028.cpp(27,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bai028.vcxproj -> D:\Bài tập\Ma Trận\UIT_23521636_BT04\x64\Debug\Bai028.exe

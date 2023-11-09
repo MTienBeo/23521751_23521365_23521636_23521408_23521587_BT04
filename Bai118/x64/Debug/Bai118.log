@@ -1,0 +1,5 @@
+﻿  Bai118.cpp
+D:\Bài tập\Ma Trận\UIT_23521636_BT04\Bai118\Bai118.cpp(33,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Bài tập\Ma Trận\UIT_23521636_BT04\Bai118\Bai118.cpp(37,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Bài tập\Ma Trận\UIT_23521636_BT04\Bai118\Bai118.cpp(72,20): warning C4390: ';': empty controlled statement found; is this the intent?
+  Bai118.vcxproj -> D:\Bài tập\Ma Trận\UIT_23521636_BT04\x64\Debug\Bai118.exe
