@@ -1,0 +1,4 @@
+﻿  Bai037.cpp
+F:\NMLT\nmlt\2352751_BT04\Bai037\Bai037.cpp(69,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+F:\NMLT\nmlt\2352751_BT04\Bai037\Bai037.cpp(71,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Bai037.vcxproj -> F:\NMLT\nmlt\2352751_BT04\x64\Debug\Bai037.exe
